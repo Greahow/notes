@@ -1,7 +1,7 @@
 # notes
 
-系统常用组件：
-Spring, Spring MVC, SpringBoot  主要的框架
+# 系统常用组件：
+# Spring, Spring MVC, SpringBoot  主要的框架
 Mybatis, Hibernate  持久层框架
 Redis, Memcache 缓存
 RESTful接口
